@@ -7,6 +7,11 @@
 
 Team Name : <b>Edison</b> <br></br>id: vcy6NqLJ3TRgm1M5Zpwn
 
+
+## Team Members:
+
+1. [Boby Biju](https://github.com/BobyBiju)  
+
 ## Project Description
 
 Firebase provides set of hosting services like NoSQL and real-time databases, social authentication, and notifications, etc . Team Edison presents <b>Joli App</b> . Joli is an app build on Flutter and we have used Firebase as the database too . So dear Employees , just create a new account in the app and put a full stop to your local job hunts and dear employers start seizing the best damn workers to meet your tasks .
@@ -37,9 +42,6 @@ In our app people could register themselves up as a laborer or an emoloyer where
 
 
 
-## Team Members:
-
-1. [Boby Biju](https://github.com/BobyBiju)  
 
 ## 🔧 Project UI:
 
