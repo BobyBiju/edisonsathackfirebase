@@ -75,11 +75,11 @@ Link : https://drive.google.com/file/d/1u-UaaUFR0X1ZcpFgT-1m7TNuqNa5KvvK/view?us
 
 
 
-## Live Demo Apk 
+## Demo Walkthrough Video 
 
-Link : https://drive.google.com/file/d/1u-UaaUFR0X1ZcpFgT-1m7TNuqNa5KvvK/view?usp=share_link
+Link : https://drive.google.com/file/d/1UC46u1MBMVPsanNUYlnz1F2l2F5w3ONJ/view?usp=share_link
 
 
 ## Technologies Used:
 
-Flutter for Front-End, Firebase for backend
+Flutter , Firebase
