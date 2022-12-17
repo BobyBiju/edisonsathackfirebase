@@ -89,4 +89,4 @@ flutter run
 
 
 
-## " Thanks u 4 ur the time "                          -Edison  ;)
+## " Thank 4 ur time "                          -Edison  ;)
