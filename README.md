@@ -62,7 +62,7 @@ In our app people could register themselves up as a laborer or an emoloyer where
 # Steps To Run the Project in Android Studio:
 
 ```
-https://github.com/BobyBiju/jolivenoserelectrothon.git
+git clone https://github.com/BobyBiju/jolivenoserelectrothon.git
 flutter pub get
 flutter run
 ```
