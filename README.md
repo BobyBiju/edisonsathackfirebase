@@ -3,12 +3,6 @@
 ![Github](https://user-images.githubusercontent.com/64391274/206931805-33d163dc-b609-4d14-8302-e863cd0c40ee.png)
 
 
-
-
-## Live Demo Apk 
-
-Link : https://drive.google.com/file/d/1u-UaaUFR0X1ZcpFgT-1m7TNuqNa5KvvK/view?usp=share_link
-
 ## Team Details
 
 Team Name : <b>Edison</b> <br></br>id: vcy6NqLJ3TRgm1M5Zpwn
@@ -17,25 +11,27 @@ Team Name : <b>Edison</b> <br></br>id: vcy6NqLJ3TRgm1M5Zpwn
 
 Firebase provides set of hosting services like NoSQL and real-time databases, social authentication, and notifications, etc . Team Edison presents <b>Joli App</b> . Joli is an app build on Flutter and we have used Firebase as the database too . So dear Employees , just create a new account in the app and put a full stop to your local job hunts and dear employers start seizing the best damn workers to meet your tasks .
 
-*We intend to solve unemployment and ensure the supply of expert laborerss.
+*We intend to solve unemployment and ensure the supply of expert employees.
 
-*We have developed an app where people can get in touch with skilled laborers to get their chores and tasks done .
+*We have developed an app where people can get in touch with skilled workers to get their chores and tasks done .
 
 *We will be providing the unemployed with access to regular work to support themselves in this pandemic hit economy.
 
-*We would be covering the marketgap between employers and employess at an affordable rate for both parties.
+*We would be covering the marketgap between employers and employees at an affordable rate for both parties.
 
 
 
 ## Notable Features
 
-In our app people could register themselves up as a laborer or an emoloyer where employees give up their necessary info and empployers can :
+In this project we have done the complete read , write and update operations of Firebase.
+
+In our app people could register themselves up as a laborer or an emoloyer where employees give up their necessary info and employers can :
  
- --phone them
+ --phone them , discuss work through our app
   
-  --see their position in google maps with respect to the registered location of employees choice of work area.
+ --see their position in google maps with respect to the registered location of employees' chosen region to work.
   
-  --pay them through razorpay
+ --pay them through razorpay.
   
   and much more in the future!!!!  
 
@@ -70,6 +66,19 @@ https://github.com/BobyBiju/jolivenoserelectrothon.git
 flutter pub get
 flutter run
 ```
+
+
+
+## Live Demo Apk 
+
+Link : https://drive.google.com/file/d/1u-UaaUFR0X1ZcpFgT-1m7TNuqNa5KvvK/view?usp=share_link
+
+
+
+## Live Demo Apk 
+
+Link : https://drive.google.com/file/d/1u-UaaUFR0X1ZcpFgT-1m7TNuqNa5KvvK/view?usp=share_link
+
 
 ## Technologies Used:
 
